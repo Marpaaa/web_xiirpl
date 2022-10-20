@@ -1,3 +1,3 @@
 <?php
-// Tulis Koneksi PHP ke MYSQL disini
+// Tulis Koneksi PHP ke MYSQL dibawah ini 
 ?>
